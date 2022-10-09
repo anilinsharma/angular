@@ -1,4 +1,4 @@
-.sidebar{ position: fixed; top: 60px; height:calc(100vh - 60px); background: #f5f6f7; width: 280px; overflow: auto;}
+.sidebar{  top: 60px; height:calc(100vh - 60px); background: #f5f6f7; width: 100%; overflow: auto;}
 .sidebar_nav{ }
 .sidebar_nav li{ }
  
