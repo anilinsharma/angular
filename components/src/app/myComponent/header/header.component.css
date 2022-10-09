@@ -1,0 +1,17 @@
+header{
+    background: #fff;
+    padding: 15px;
+    display: flex;
+    box-shadow: 0 0 5px rgb(0 0 0 / 20%);
+    height: 60px;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #e0e0e0 ;
+}
+
+.brand{font-size: 2rem; text-decoration: none; font-weight: 700;}
+
+.nav_top{ list-style: none;}
+.nav_top li a{ text-decoration: none; padding: 20px;}
+.nav_top li a:hover{ background: #f5f6f7; color: #000;}
+
