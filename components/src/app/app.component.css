@@ -3,7 +3,7 @@
     min-height: calc(100vh - 80px);
     justify-content: space-between;
 }
-.body_outer{width:  100%; padding: 15px;}
+.body_outer{width:  100%; padding: 15px 15px 15px 50px;}
 .sidebar_outer {
     width: 330px;
 }

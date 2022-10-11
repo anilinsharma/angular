@@ -25,6 +25,7 @@ import { TextareaComponent } from './myComponent/textarea/textarea.component';
 import { TooltipComponent } from './myComponent/tooltip/tooltip.component';
 import { InputTextComponent } from './myComponent/input-text/input-text.component';
 import { AccordianCompComponent } from './myComponent/accordian/accordian-comp/accordian-comp.component';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 @NgModule({
   declarations: [
@@ -54,7 +55,8 @@ import { AccordianCompComponent } from './myComponent/accordian/accordian-comp/a
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    NgbModule
   ],
   providers: [],
   bootstrap: [AppComponent]
